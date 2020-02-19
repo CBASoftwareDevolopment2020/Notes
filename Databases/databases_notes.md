@@ -2,12 +2,12 @@
 
 ## [SQL Databases](sql_notes.md)
 
-| Week | Day | Time        | Subject                                                             |
-| ---- | --- | ----------- | ------------------------------------------------------------------- |
-| 06   | Thu | 08:30-14:00 | [01 Relational Databases Recap](Databases/Notes/postgreSQL/day1.md) |
-| 07   | Thu | 08:30-14:00 | [02 Programming RDB](Databases/Notes/postgreSQL/day2.md)            |
-| 08   | Thu | 08:30-14:00 | 03 RDB Management and Optimization                                  |
-| 09   | Thu | 08:30-14:00 | 04 Public Presentation of RDB Mini Projects in Class                |
+| Week | Day | Time        | Subject                                              |
+| ---- | --- | ----------- | ---------------------------------------------------- |
+| 06   | Thu | 08:30-14:00 | [01 Relational Databases Recap](postgreSQL/day1.md)  |
+| 07   | Thu | 08:30-14:00 | [02 Programming RDB](postgreSQL/day2.md)             |
+| 08   | Thu | 08:30-14:00 | 03 RDB Management and Optimization                   |
+| 09   | Thu | 08:30-14:00 | 04 Public Presentation of RDB Mini Projects in Class |
 
 ## Column-Oriented NoSQL Database: HBase
 

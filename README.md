@@ -11,7 +11,7 @@
 | Test                          | 08   | Mon | 08:30-14:00 | [02 Unit Tests and testability](Test/Functional/day2.md)           |
 | Algorithms and Datastructures | 08   | Wed | 12:30-16:00 | [03 Divide-and-conquer Sorting](Algorithms/Sorting/day3.md)        |
 | Databases for Developers      | 08   | Thu | 08:30-14:00 | [03 RDB Management and Optimization](Databases/postgreSQL/day3.md) |
-| Test                          | 09   | Mon | 08:30-14:00 | 03 Integration Tests                                               |
+| Test                          | 09   | Mon | 08:30-14:00 | [03 Test Doubles](Test/Functional/day3.md)                         |
 | Algorithms and Datastructures | 09   | Wed | 08:30-12:00 | 04 Priority Queues                                                 |
 | Databases for Developers      | 09   | Thu | 08:30-14:00 | 04 Public Presentation of RDB Mini Projects in Class               |
 | Test                          | 10   | Mon | 08:30-14:00 | 04 System Tests                                                    |

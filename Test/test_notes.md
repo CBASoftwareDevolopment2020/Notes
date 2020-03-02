@@ -7,8 +7,8 @@
 | 07   | Mon | 08:30-14:00 | [01 Introduction](Functional/day1.md)               |
 | 08   | Mon | 08:30-14:00 | [02 Unit Tests and testability](Functional/day2.md) |
 | 09   | Mon | 08:30-14:00 | [03 Test Doubles](Functional/day3.md)               |
-| 10   | Mon | 08:30-14:00 | 04 System Tests                                     |
-| 11   | Mon | 08:30-14:00 | 05 Acceptance Tests                                 |
+| 10   | Mon | 08:30-14:00 | [04 Integration Tests](Functional/day4.md)          |
+| 11   | Mon | 08:30-14:00 | 05 System Tests and Acceptance Tests                |
 
 ## Operational Tests
 

@@ -9,16 +9,16 @@
 | 07   | Wed | 08:30-12:00 | [02 Elementary Sorting](Sorting/day2.md)         |
 | 08   | Wed | 12:30-16:00 | [03 Divide-and-conquer Sorting](Sorting/day3.md) |
 | 09   | Wed | 08:30-12:00 | 04 Priority Queues                               |
-| 10   | Wed | 08:30-12:00 | 05 String Sorting                                |
 
 ## Searching
 
-| Week | Day | Time        | Subject                           |
-| ---- | --- | ----------- | --------------------------------- |
-| 11   | Wed | 08:30-12:00 | 06 Symbol Tables and Search Trees |
-| 12   | Wed | 08:30-12:00 | 07 Hashing and Hash Tables        |
-| 13   | Wed | 08:30-12:00 | 08 String Searches                |
-| 14   | Wed | 08:30-12:00 | 09 Regular Expressions            |
+| Week | Day | Time        | Subject                                                |
+| ---- | --- | ----------- | ------------------------------------------------------ |
+| 10   | Wed | 08:30-12:00 | [05 Symbol Tables and Search Trees](Searching/day1.md) |
+| 11   | Wed | 08:30-12:00 | 06 Balanced Search Trees                               |
+| 12   | Wed | 08:30-12:00 | 07 Hashing and Hash Tables                             |
+| 13   | Wed | 08:30-12:00 | 08 String Searches                                     |
+| 14   | Wed | 08:30-12:00 | 09 Regular Expressions                                 |
 
 ## Graphs
 

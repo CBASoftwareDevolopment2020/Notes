@@ -15,10 +15,10 @@
 | Algorithms and Datastructures | 09   | Wed | 08:30-12:00 | 04 Priority Queues                                                 |
 | Databases for Developers      | 09   | Thu | 08:30-14:00 | 04 Public Presentation of RDB Mini Projects in Class               |
 | Test                          | 10   | Mon | 08:30-14:00 | [04 Integration Tests](Functional/day4.md)                         |
-| Algorithms and Datastructures | 10   | Wed | 08:30-12:00 | 05 String Sorting                                                  |
+| Algorithms and Datastructures | 10   | Wed | 08:30-12:00 | [05 Symbol Tables and Search Trees](Algorithms/Searching/day1.md)  |
 | Databases for Developers      | 10   | Thu | 08:30-14:00 | 05 Introduction to Big Data and Hadoop                             |
 | Test                          | 11   | Mon | 08:30-14:00 | 05 System Tests and Acceptance Tests                               |
-| Algorithms and Datastructures | 11   | Wed | 08:30-12:00 | 06 Symbol Tables and Search Trees                                  |
+| Algorithms and Datastructures | 11   | Wed | 08:30-12:00 | 06 Balanced Search Trees                                           |
 | Databases for Developers      | 11   | Thu | 08:30-14:00 | 06 Processing Big Data by Use of HBase                             |
 | Test                          | 12   | Mon | 08:30-14:00 | 06 Performance Tests                                               |
 | Algorithms and Datastructures | 12   | Wed | 08:30-12:00 | 07 Hashing and Hash Tables                                         |

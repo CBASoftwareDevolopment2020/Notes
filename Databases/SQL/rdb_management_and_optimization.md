@@ -1,4 +1,4 @@
-# [03 RDB Management and Optimization](https://datsoftlyngby.github.io/soft2020spring/DB/week-08/#3-rdb-management-and-optimization)
+# [RDB Management and Optimization](https://datsoftlyngby.github.io/soft2020spring/DB/week-08/#3-rdb-management-and-optimization)
 
 20-02-2020
 

@@ -2,20 +2,20 @@
 
 ## [SQL Databases](sql_notes.md)
 
-| Week | Day | Time        | Subject                                              |
-| ---- | --- | ----------- | ---------------------------------------------------- |
-| 06   | Thu | 08:30-14:00 | [01 Relational Databases Recap](SQL/day1.md)         |
-| 07   | Thu | 08:30-14:00 | [02 Programming RDB](SQL/day2.md)                    |
-| 08   | Thu | 08:30-14:00 | [03 RDB Management and Optimization](SQL/day3.md)    |
-| 09   | Thu | 08:30-14:00 | 04 Public Presentation of RDB Mini Projects in Class |
-| 10   | Thu | 08:30-14:00 | 05 SQL Wrap-Up                                       |
+| Week | Day | Time        | Subject                                                                      |
+| ---- | --- | ----------- | ---------------------------------------------------------------------------- |
+| 06   | Thu | 08:30-14:00 | [01 Relational Databases Recap](SQL/relational_databases_recap.md)           |
+| 07   | Thu | 08:30-14:00 | [02 Programming RDB](SQL/programming_rdb.md)                                 |
+| 08   | Thu | 08:30-14:00 | [03 RDB Management and Optimization](SQL/rdb_management_and_optimization.md) |
+| 09   | Thu | 08:30-14:00 | 04 Public Presentation of RDB Mini Projects in Class                         |
+| 10   | Thu | 08:30-14:00 | 05 SQL Wrap-Up                                                               |
 
 ## Column-Oriented NoSQL Database: HBase
 
-| Week | Day | Time        | Subject                                               |
-| ---- | --- | ----------- | ----------------------------------------------------- |
-| 10   | Thu | 08:30-14:00 | [06 Big Data and NoSQL](NoSQL/ColumnOriented/day1.md) |
-| 11   | Thu | 08:30-14:00 | 07 Processing Big Data by Use of HBase                |
+| Week | Day | Time        | Subject                                                             |
+| ---- | --- | ----------- | ------------------------------------------------------------------- |
+| 10   | Thu | 08:30-14:00 | [06 Big Data and NoSQL](NoSQL/ColumnOriented/big_data_and_nosql.md) |
+| 11   | Thu | 08:30-14:00 | 07 Processing Big Data by Use of HBase                              |
 
 ## Document-Based NoSQL: Mongo DB
 

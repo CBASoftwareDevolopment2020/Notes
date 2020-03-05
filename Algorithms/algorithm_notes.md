@@ -2,23 +2,23 @@
 
 ## Sorting
 
-| Week | Day | Time        | Subject                                          |
-| ---- | --- | ----------- | ------------------------------------------------ |
-| 06   | Mon | 11:00-11:30 | 00 Introduction to SOFT spring semester          |
-| 06   | Wed | 08:30-12:00 | 01 Introduction to Algorithms                    |
-| 07   | Wed | 08:30-12:00 | [02 Elementary Sorting](Sorting/day2.md)         |
-| 08   | Wed | 12:30-16:00 | [03 Divide-and-conquer Sorting](Sorting/day3.md) |
-| 09   | Wed | 08:30-12:00 | 04 Priority Queues                               |
+| Week | Day | Time        | Subject                                                                |
+| ---- | --- | ----------- | ---------------------------------------------------------------------- |
+| 06   | Mon | 11:00-11:30 | 00 Introduction to SOFT spring semester                                |
+| 06   | Wed | 08:30-12:00 | 01 Introduction to Algorithms                                          |
+| 07   | Wed | 08:30-12:00 | [02 Elementary Sorting](Sorting/elementary_sorting.md)                 |
+| 08   | Wed | 12:30-16:00 | [03 Divide-and-conquer Sorting](Sorting/divide-and-conquer_sorting.md) |
+| 09   | Wed | 08:30-12:00 | 04 Priority Queues                                                     |
 
 ## Searching
 
-| Week | Day | Time        | Subject                                                |
-| ---- | --- | ----------- | ------------------------------------------------------ |
-| 10   | Wed | 08:30-12:00 | [05 Symbol Tables and Search Trees](Searching/day1.md) |
-| 11   | Wed | 08:30-12:00 | 06 Balanced Search Trees                               |
-| 12   | Wed | 08:30-12:00 | 07 Hashing and Hash Tables                             |
-| 13   | Wed | 08:30-12:00 | 08 String Searches                                     |
-| 14   | Wed | 08:30-12:00 | 09 Regular Expressions                                 |
+| Week | Day | Time        | Subject                                                                          |
+| ---- | --- | ----------- | -------------------------------------------------------------------------------- |
+| 10   | Wed | 08:30-12:00 | [05 Symbol Tables and Search Trees](Searching/symbol_tables_and_search_trees.md) |
+| 11   | Wed | 08:30-12:00 | 06 Balanced Search Trees                                                         |
+| 12   | Wed | 08:30-12:00 | 07 Hashing and Hash Tables                                                       |
+| 13   | Wed | 08:30-12:00 | 08 String Searches                                                               |
+| 14   | Wed | 08:30-12:00 | 09 Regular Expressions                                                           |
 
 ## Graphs
 

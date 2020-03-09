@@ -18,7 +18,7 @@
 | Algorithms and Datastructures | 10   | Wed | 08:30-12:00 | [05 Symbol Tables and Search Trees](Algorithms/Searching/symbol_tables_and_search_trees.md) |
 | Databases for Developers      | 10   | Thu | 08:30-14:00 | 05 SQL Wrap-Up                                                                              |
 | Databases for Developers      | 10   | Thu | 08:30-14:00 | [06 Big Data and NoSQL](NoSQL/ColumnOriented/big_data_and_nosql.md)                         |
-| Test                          | 11   | Mon | 08:30-14:00 | 05 System Tests and Acceptance Tests                                                        |
+| Test                          | 11   | Mon | 08:30-14:00 | [05 System Tests and Acceptance Tests](Functional/integration_test_cont)                    |
 | Algorithms and Datastructures | 11   | Wed | 08:30-12:00 | 06 Balanced Search Trees                                                                    |
 | Databases for Developers      | 11   | Thu | 08:30-14:00 | 07 Processing Big Data by Use of HBase                                                      |
 | Test                          | 12   | Mon | 08:30-14:00 | 06 Performance Tests                                                                        |

@@ -12,13 +12,13 @@
 
 ## Searching
 
-| Week | Day | Time        | Subject                                                                          |
-| ---- | --- | ----------- | -------------------------------------------------------------------------------- |
-| 10   | Wed | 08:30-12:00 | [05 Symbol Tables and Search Trees](Searching/symbol_tables_and_search_trees.md) |
-| 11   | Wed | 08:30-12:00 | 06 Balanced Search Trees                                                         |
-| 12   | Wed | 08:30-12:00 | 07 Hashing and Hash Tables                                                       |
-| 13   | Wed | 08:30-12:00 | 08 String Searches                                                               |
-| 14   | Wed | 08:30-12:00 | 09 Regular Expressions                                                           |
+| Week | Day | Time        | Subject                                                                                                   |
+| ---- | --- | ----------- | --------------------------------------------------------------------------------------------------------- |
+| 10   | Wed | 08:30-12:00 | [05 Symbol Tables and Search Trees](Searching/symbol_tables_and_search_trees.md)                          |
+| 11   | Wed | 08:30-12:00 | [06 Balanced Search Trees and Hash tables](Algorithms/Searching/balanced_search_trees_and_hash_tables.md) |
+| 12   | Wed | 08:30-12:00 | 07 Hashing and Hash Tables                                                                                |
+| 13   | Wed | 08:30-12:00 | 08 String Searches                                                                                        |
+| 14   | Wed | 08:30-12:00 | 09 Regular Expressions                                                                                    |
 
 ## Graphs
 
